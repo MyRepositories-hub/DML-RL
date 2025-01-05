@@ -3,6 +3,8 @@
 ## Our project website is coming soon
 
 ## Motivation
+![motivation](results/motivation.png)
+_We propose a hypothesis that deep mutual learning (DML) technique can help agents learn meta-representations of high-dimensional observations, thus improving generalization performance._
 
 
 ## Results
