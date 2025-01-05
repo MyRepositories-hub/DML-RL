@@ -2,11 +2,16 @@
 
 ## Our project website is coming soon
 
+## Motivation
+
+
 ## Results
 
 ### Training performance
+![train](results/all_train_return.png)
 
 ### Generalization performance
+![test](results/all_test_return.png)
 
 ## Installation
 Create Anaconda environment
