@@ -1,5 +1,5 @@
 # The Meta-Representation Hypothesis
-Our project website is coming soon.
+Meta-representation is a higher-order representation, akin to the human ability to abstract concepts.
 
 # Introduction
 ![abstraction](results/abstraction.jpg)
@@ -10,15 +10,6 @@ _Pablo Picasso’s The Bull. By focusing on and exaggerating specific details, r
 ![motivation](results/motivation.png)
 
 _We propose a hypothesis that deep mutual learning (DML) technique can help agents learn meta-representations of high-dimensional observations, thus improving generalization performance._
-
-
-# Results
-
-## Training performance
-![train](results/all_train_return.png)
-
-## Generalization performance
-![test](results/all_test_return.png)
 
 # Installation
 Create Anaconda environment
@@ -45,3 +36,11 @@ Train PPO with DML
 ```bash
 python main.py
 ```
+
+# Results
+
+## Training performance
+![train](results/all_train_return.png)
+
+## Generalization performance
+![test](results/all_test_return.png)
