@@ -1,21 +1,26 @@
 # The Meta-Representation Hypothesis
+Our project website is coming soon.
 
-## Our project website is coming soon
+# Introduction
+![abstraction](results/abstraction.jpg)
 
-## Motivation
+_Pablo Picasso’s The Bull. By focusing on and exaggerating specific details, rather than trying to capture every detail realistically, artists can convey the core meaning or essence of the subject more powerfully._
+
+# Motivation
 ![motivation](results/motivation.png)
+
 _We propose a hypothesis that deep mutual learning (DML) technique can help agents learn meta-representations of high-dimensional observations, thus improving generalization performance._
 
 
-## Results
+# Results
 
-### Training performance
+## Training performance
 ![train](results/all_train_return.png)
 
-### Generalization performance
+## Generalization performance
 ![test](results/all_test_return.png)
 
-## Installation
+# Installation
 Create Anaconda environment
 ```bash
 conda create -n procgen_py310 python=3.10 --yes
