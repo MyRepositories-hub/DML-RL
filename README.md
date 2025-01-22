@@ -3,6 +3,8 @@ Meta-representation is a higher-order representation, akin to the human ability 
 
 In this paper, we propose a novel theoretical framework for analyzing the generalization problem of deep reinforcement learning. Based on mild assumptions, we theoretically prove that improving the policy robustness to irrelevant features enhances generalization performance.
 
+Our project website: https://dml-rl.github.io/.
+
 # Introduction
 ![abstraction](results/abstraction.jpg)
 
